@@ -1,4 +1,4 @@
 # git-demo
 For learning git commands
 <br>
-author - Rohan
+author - Rohan (Back end Developer)
